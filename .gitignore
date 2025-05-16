@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+face_images_data/
+README.md
